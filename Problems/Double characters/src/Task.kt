@@ -1,0 +1,1 @@
+fun main() = readLine()!!.forEach { c: Char -> print("$c$c") }
